@@ -8,3 +8,10 @@ A unique, menu-driven calculator in Python with operations:
 - Division
 - Modulus
 - Power
+## Task 2: Password Generator  
+A secure and customizable Password Generator built using Python.  
+Features included:  
+- Random password generation with `secrets`  
+- Strength estimation using entropy bits  
+- Copy to clipboard and save to file options  
+- Supports custom length and character sets  
